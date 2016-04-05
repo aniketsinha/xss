@@ -1,0 +1,1 @@
+alert('XSS: This script is loaded from https://github.com/aniketsinha/xss');
